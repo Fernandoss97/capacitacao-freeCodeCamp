@@ -4,6 +4,7 @@
 	"description": "Primeiro projeto node",
 	"keywords": [ "descriptive", "freecodecamp", "words" ],
 	"license": "anything",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
